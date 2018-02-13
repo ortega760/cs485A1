@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Killer Teddy Bears", "Assembly-CSharp.csproj", "{CB1CF5FF-94A0-1189-FDB1-A0393E414AA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Killer Teddy Bears", "Assembly-CSharp-Editor.csproj", "{ABB850FE-A3D2-99F6-F13E-1FF762A601B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB1CF5FF-94A0-1189-FDB1-A0393E414AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB1CF5FF-94A0-1189-FDB1-A0393E414AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB1CF5FF-94A0-1189-FDB1-A0393E414AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB1CF5FF-94A0-1189-FDB1-A0393E414AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABB850FE-A3D2-99F6-F13E-1FF762A601B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB850FE-A3D2-99F6-F13E-1FF762A601B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB850FE-A3D2-99F6-F13E-1FF762A601B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB850FE-A3D2-99F6-F13E-1FF762A601B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
